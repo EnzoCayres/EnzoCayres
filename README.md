@@ -12,6 +12,10 @@ Estudante de Ciência de Dados e Inteligência Artificial na PUC-Campinas, no 4�
 
 [grafos-redes-sociais](https://github.com/EnzoCayres/grafos-redes-sociais): árvore geradora máxima com o algoritmo de Prim e modelagem de grafos com NetworkX, em Python.
 
+## Tecnologias
+
+Python (pandas, NetworkX, matplotlib), C, JavaScript com Node.js e Express, MySQL e Power BI.
+
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/enzo-cayres-ferreira-a1b22444b/)
