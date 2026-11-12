@@ -1,6 +1,6 @@
 # Enzo Cayres Ferreira
 
-Estudante de Ciência de Dados e IA na PUC-Campinas que analisa dados públicos de saúde com SQL e Python e monta dashboards em Power BI. Procuro estágio em dados e IA em Campinas e região.
+Estudante de Ciência de Dados e IA na PUC-Campinas. Procuro estágio em dados e IA em Campinas e região.
 
 ## Projetos
 
