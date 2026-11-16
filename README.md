@@ -20,4 +20,4 @@ Python (pandas, SciPy, NetworkX, matplotlib), SQL e SQLite, C, JavaScript com No
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/enzo-cayres-ferreira-a1b22444b/)
+[LinkedIn](https://www.linkedin.com/in/enzocayres/)
